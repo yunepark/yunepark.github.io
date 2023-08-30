@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Yune Park
+longtitle:        Data Science Blog
+author:           Yunejung Park
+email:            yunepark@snu.ac.kr
 description: >
-  Build Jekyll site with the GitBook style.
+  Data science blog
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://yunepark.github.io'
+baseurl:          
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
